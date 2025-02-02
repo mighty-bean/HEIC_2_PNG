@@ -9,4 +9,4 @@ Please note that this program deletes the original HEIC files if the conversion 
 
 Written in .NET using ImageMagick for .NET [Magick.NET](https://github.com/dlemstra/Magick.NET)
 
-![Program Image](.\Media\Sample.png "Program Demo")
+![Program Image](./Media/Sample.png "Program Demo")
